@@ -1,0 +1,2 @@
+n = 'hgkjg'
+print(n)
